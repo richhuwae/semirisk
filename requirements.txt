@@ -1,0 +1,5 @@
+requests
+feedparser
+pandas
+matplotlib
+streamlit<1.33
