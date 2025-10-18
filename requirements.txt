@@ -3,3 +3,5 @@ feedparser
 pandas
 matplotlib
 streamlit<1.33
+plotly
+vaderSentiment
